@@ -1,0 +1,33 @@
+_repo: The-After-glow-of-a-Great-ReignFour-Addresses-Delivered-in-St.-Paul-s-Cathedral_20430
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Winnington Ingram, Arthur F. (Arthur Foley)
+    aliases:
+    - Ingram, Arthur F. Winnington (Arthur Foley Winnington)
+    - Ingram, A. F. W. (Arthur Foley Winnington)
+    birthdate: 1858
+    deathdate: 1946
+    gutenberg_agent_id: '9292'
+    url: http://www.gutenberg.org/2009/agents/9292
+description: ''
+gutenberg_issued: '2007-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901'
+- !lcc 'BX'
+- !lcsh 'Church of England -- Sermons'
+- !lcc 'DA'
+title: 'The After-glow of a Great Reign
+
+  Four Addresses Delivered in St. Paul''s Cathedral'
+url: http://www.gutenberg.org/ebooks/20430
