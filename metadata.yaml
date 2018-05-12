@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9292'
     url: http://www.gutenberg.org/2009/agents/9292
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20430#The-After-glow-of-a-Great-ReignFour-Addresses-Delivered-in-St.-Paul-s-Cathedral
 gutenberg_issued: '2007-01-23'
 gutenberg_type: Text
 identifiers:
